@@ -38,9 +38,6 @@ Comportamentos digitais:
 Frase típica: 
 "Quero um app que entenda meu gosto e me entregue descobertas de verdade, sem perder tempo."
 
-Visual:
-
-
 Processo:
 Pesquisa de comentários e hábitos musicais → identificação de objetivos, necessidades e dores → criação do visual da persona no Canva.
 Essa versão é curta
