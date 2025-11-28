@@ -43,5 +43,5 @@ Pesquisa de comentários e hábitos musicais → identificação de objetivos, n
 Essa versão é curta
 
 Projeto: 
-<img src="assets/movie-poster-2.png" width="350">
+<img src="Gráfico de Persona Terapeuta Divertido Rosa.pdf" width="350">
 
