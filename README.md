@@ -41,3 +41,7 @@ Frase típica:
 Processo:
 Pesquisa de comentários e hábitos musicais → identificação de objetivos, necessidades e dores → criação do visual da persona no Canva.
 Essa versão é curta
+
+Projeto: 
+<img src="assets/movie-poster-2.png" width="350">
+
